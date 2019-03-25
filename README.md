@@ -51,6 +51,7 @@ All code is written in Python 3 and uses RL environments from [OpenAI Gym](https
 Textbooks:
 
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+- [Sutton & Barto Book: Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html)
 
 Classes:
 
